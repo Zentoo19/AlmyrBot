@@ -1,0 +1,16 @@
+{
+  "name": "AlmyR",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "ISC"
+}
